@@ -61,4 +61,4 @@
 # Diagrama
 
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3467c362-931d-47ac-816b-d5c150c976ac" />
+<img width="701" height="511" alt="{5D5776F3-726C-4194-B6D3-010A3CCD01C8}" src="https://github.com/user-attachments/assets/e6f50da4-ec80-4309-961b-6f1fff94eba0" />
